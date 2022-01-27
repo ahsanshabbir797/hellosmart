@@ -2,3 +2,4 @@ updating you for new branch dev
 created new brnach "test" on github online
 added a new smart branch
 
+now pulling a branch from github to smartgit
